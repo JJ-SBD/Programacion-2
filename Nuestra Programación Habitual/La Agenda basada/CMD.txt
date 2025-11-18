@@ -1,0 +1,6 @@
+Se ejecuta cuando estas dentro de la carpeta que contiene los archivos
+Se ejecuta luego de compilar todo con javac *
+
+Comando/ruta de tu conector/nombre de tu clase con metodo main
+
+java -cp "C:\Program Files\Java\mysql-connector-j-9.5.0.jar;" FrameInfoMain
